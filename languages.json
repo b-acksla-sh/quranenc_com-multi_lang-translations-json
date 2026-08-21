@@ -1,281 +1,281 @@
 {
   "en": {
-    "cloud": "en",
+    "azure": "en",
     "name": "English",
     "dir": "ltr"
   },
   "es-es": {
-    "cloud": "es",
+    "azure": "es",
     "name": "Spanish (European)",
     "dir": "ltr"
   },
   "es-la": {
-    "cloud": "es-MX",
+    "azure": "es-MX",
     "name": "Spanish (Latin America)",
     "dir": "ltr"
   },
   "zh-hans": {
-    "cloud": "zh-Hans",
+    "azure": "zh-Hans",
     "name": "Chinese (Simplified)",
     "dir": "ltr"
   },
   "aa": {
-    "cloud": "en",
+    "azure": "en",
     "name": "Afar",
     "dir": "ltr"
   },
   "ak": {
-    "cloud": "en",
+    "azure": "en",
     "name": "Akan",
     "dir": "ltr"
   },
   "am": {
-    "cloud": "am",
+    "azure": "am",
     "name": "Amharic",
     "dir": "ltr"
   },
   "as": {
-    "cloud": "as",
+    "azure": "as",
     "name": "Assamese",
     "dir": "ltr"
   },
   "az": {
-    "cloud": "az",
+    "azure": "az",
     "name": "Azerbaijani",
     "dir": "ltr"
   },
   "bs": {
-    "cloud": "bs",
+    "azure": "bs",
     "name": "Bosnian",
     "dir": "ltr"
   },
   "ceb": {
-    "cloud": "fil",
+    "azure": "fil",
     "name": "Filipino (Bisayan)",
     "dir": "ltr"
   },
   "de": {
-    "cloud": "de",
+    "azure": "de",
     "name": "German",
     "dir": "ltr"
   },
   "fa": {
-    "cloud": "fa",
+    "azure": "fa",
     "name": "Persian",
     "dir": "rtl"
   },
   "ff": {
-    "cloud": "fr",
+    "azure": "fr",
     "name": "Fulah",
     "dir": "ltr"
   },
   "fr": {
-    "cloud": "fr",
+    "azure": "fr",
     "name": "French",
     "dir": "ltr"
   },
   "gu": {
-    "cloud": "gu",
+    "azure": "gu",
     "name": "Gujarati",
     "dir": "ltr"
   },
   "ha": {
-    "cloud": "ha",
+    "azure": "ha",
     "name": "Hausa",
     "dir": "ltr"
   },
   "hi": {
-    "cloud": "hi",
+    "azure": "hi",
     "name": "Hindi",
     "dir": "ltr"
   },
   "hr": {
-    "cloud": "hr",
+    "azure": "hr",
     "name": "Croatian",
     "dir": "ltr"
   },
   "id": {
-    "cloud": "id",
+    "azure": "id",
     "name": "Indonesian",
     "dir": "ltr"
   },
   "ja": {
-    "cloud": "ja",
+    "azure": "ja",
     "name": "Japanese",
     "dir": "ltr"
   },
   "km": {
-    "cloud": "km",
+    "azure": "km",
     "name": "Khmer",
     "dir": "ltr"
   },
   "kn": {
-    "cloud": "kn",
+    "azure": "kn",
     "name": "Kannada",
     "dir": "ltr"
   },
   "ku": {
-    "cloud": "ku",
+    "azure": "ku",
     "name": "Kurdish",
     "dir": "rtl"
   },
   "ky": {
-    "cloud": "ky",
+    "azure": "ky",
     "name": "Kyrgyz",
     "dir": "ltr"
   },
   "ln": {
-    "cloud": "ln",
+    "azure": "ln",
     "name": "Lingala",
     "dir": "ltr"
   },
   "lt": {
-    "cloud": "lt",
+    "azure": "lt",
     "name": "Lithuanian",
     "dir": "ltr"
   },
   "mdh": {
-    "cloud": "fil",
+    "azure": "fil",
     "name": "Filipino (Maguindanao)",
     "dir": "ltr"
   },
   "mk": {
-    "cloud": "mk",
+    "azure": "mk",
     "name": "Macedonian",
     "dir": "ltr"
   },
   "ml": {
-    "cloud": "ml",
+    "azure": "ml",
     "name": "Malayalam",
     "dir": "ltr"
   },
   "mos": {
-    "cloud": "fr",
+    "azure": "fr",
     "name": "Mossi",
     "dir": "ltr"
   },
   "nl": {
-    "cloud": "nl",
+    "azure": "nl",
     "name": "Dutch",
     "dir": "ltr"
   },
   "nqo": {
-    "cloud": "fr",
+    "azure": "fr",
     "name": "N'Ko",
     "dir": "ltr"
   },
   "om": {
-    "cloud": "am",
+    "azure": "am",
     "name": "Oromo",
     "dir": "ltr"
   },
   "pa": {
-    "cloud": "pa",
+    "azure": "pa",
     "name": "Punjabi",
     "dir": "ltr"
   },
   "ps": {
-    "cloud": "ps",
+    "azure": "ps",
     "name": "Pashto",
     "dir": "rtl"
   },
   "pt": {
-    "cloud": "pt",
+    "azure": "pt",
     "name": "Portuguese",
     "dir": "ltr"
   },
   "rn": {
-    "cloud": "run",
+    "azure": "run",
     "name": "Kirundi",
     "dir": "ltr"
   },
   "ro": {
-    "cloud": "ro",
+    "azure": "ro",
     "name": "Romanian",
     "dir": "ltr"
   },
   "rw": {
-    "cloud": "rw",
+    "azure": "rw",
     "name": "Kinyarwanda",
     "dir": "ltr"
   },
   "si": {
-    "cloud": "si",
+    "azure": "si",
     "name": "Sinhala",
     "dir": "ltr"
   },
   "so": {
-    "cloud": "so",
+    "azure": "so",
     "name": "Somali",
     "dir": "ltr"
   },
   "sq": {
-    "cloud": "sq",
+    "azure": "sq",
     "name": "Albanian",
     "dir": "ltr"
   },
   "sr": {
-    "cloud": "sr-Cyrl",
+    "azure": "sr-Cyrl",
     "name": "Serbian",
     "dir": "ltr"
   },
   "sw": {
-    "cloud": "sw",
+    "azure": "sw",
     "name": "Swahili",
     "dir": "ltr"
   },
   "ta": {
-    "cloud": "ta",
+    "azure": "ta",
     "name": "Tamil",
     "dir": "ltr"
   },
   "te": {
-    "cloud": "te",
+    "azure": "te",
     "name": "Telugu",
     "dir": "ltr"
   },
   "tg": {
-    "cloud": "ru",
+    "azure": "ru",
     "name": "Tajik",
     "dir": "ltr"
   },
   "th": {
-    "cloud": "th",
+    "azure": "th",
     "name": "Thai",
     "dir": "ltr"
   },
   "tl": {
-    "cloud": "fil",
+    "azure": "fil",
     "name": "Filipino (Tagalog)",
     "dir": "ltr"
   },
   "tr": {
-    "cloud": "tr",
+    "azure": "tr",
     "name": "Turkish",
     "dir": "ltr"
   },
   "ug": {
-    "cloud": "ug",
+    "azure": "ug",
     "name": "Uyghur",
     "dir": "rtl"
   },
   "ur": {
-    "cloud": "ur",
+    "azure": "ur",
     "name": "Urdu",
     "dir": "rtl"
   },
   "uz": {
-    "cloud": "uz",
+    "azure": "uz",
     "name": "Uzbek",
     "dir": "ltr"
   },
   "vi": {
-    "cloud": "vi",
+    "azure": "vi",
     "name": "Vietnamese",
     "dir": "ltr"
   },
   "yo": {
-    "cloud": "yo",
+    "azure": "yo",
     "name": "Yoruba",
     "dir": "ltr"
   }
