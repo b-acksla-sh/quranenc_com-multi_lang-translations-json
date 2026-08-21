@@ -1,0 +1,282 @@
+{
+  "en": {
+    "cloud": "en",
+    "name": "English",
+    "dir": "ltr"
+  },
+  "es-es": {
+    "cloud": "es",
+    "name": "Spanish (European)",
+    "dir": "ltr"
+  },
+  "es-la": {
+    "cloud": "es-MX",
+    "name": "Spanish (Latin America)",
+    "dir": "ltr"
+  },
+  "zh-hans": {
+    "cloud": "zh-Hans",
+    "name": "Chinese (Simplified)",
+    "dir": "ltr"
+  },
+  "aa": {
+    "cloud": "en",
+    "name": "Afar",
+    "dir": "ltr"
+  },
+  "ak": {
+    "cloud": "en",
+    "name": "Akan",
+    "dir": "ltr"
+  },
+  "am": {
+    "cloud": "am",
+    "name": "Amharic",
+    "dir": "ltr"
+  },
+  "as": {
+    "cloud": "as",
+    "name": "Assamese",
+    "dir": "ltr"
+  },
+  "az": {
+    "cloud": "az",
+    "name": "Azerbaijani",
+    "dir": "ltr"
+  },
+  "bs": {
+    "cloud": "bs",
+    "name": "Bosnian",
+    "dir": "ltr"
+  },
+  "ceb": {
+    "cloud": "fil",
+    "name": "Filipino (Bisayan)",
+    "dir": "ltr"
+  },
+  "de": {
+    "cloud": "de",
+    "name": "German",
+    "dir": "ltr"
+  },
+  "fa": {
+    "cloud": "fa",
+    "name": "Persian",
+    "dir": "rtl"
+  },
+  "ff": {
+    "cloud": "fr",
+    "name": "Fulah",
+    "dir": "ltr"
+  },
+  "fr": {
+    "cloud": "fr",
+    "name": "French",
+    "dir": "ltr"
+  },
+  "gu": {
+    "cloud": "gu",
+    "name": "Gujarati",
+    "dir": "ltr"
+  },
+  "ha": {
+    "cloud": "ha",
+    "name": "Hausa",
+    "dir": "ltr"
+  },
+  "hi": {
+    "cloud": "hi",
+    "name": "Hindi",
+    "dir": "ltr"
+  },
+  "hr": {
+    "cloud": "hr",
+    "name": "Croatian",
+    "dir": "ltr"
+  },
+  "id": {
+    "cloud": "id",
+    "name": "Indonesian",
+    "dir": "ltr"
+  },
+  "ja": {
+    "cloud": "ja",
+    "name": "Japanese",
+    "dir": "ltr"
+  },
+  "km": {
+    "cloud": "km",
+    "name": "Khmer",
+    "dir": "ltr"
+  },
+  "kn": {
+    "cloud": "kn",
+    "name": "Kannada",
+    "dir": "ltr"
+  },
+  "ku": {
+    "cloud": "ku",
+    "name": "Kurdish",
+    "dir": "rtl"
+  },
+  "ky": {
+    "cloud": "ky",
+    "name": "Kyrgyz",
+    "dir": "ltr"
+  },
+  "ln": {
+    "cloud": "ln",
+    "name": "Lingala",
+    "dir": "ltr"
+  },
+  "lt": {
+    "cloud": "lt",
+    "name": "Lithuanian",
+    "dir": "ltr"
+  },
+  "mdh": {
+    "cloud": "fil",
+    "name": "Filipino (Maguindanao)",
+    "dir": "ltr"
+  },
+  "mk": {
+    "cloud": "mk",
+    "name": "Macedonian",
+    "dir": "ltr"
+  },
+  "ml": {
+    "cloud": "ml",
+    "name": "Malayalam",
+    "dir": "ltr"
+  },
+  "mos": {
+    "cloud": "fr",
+    "name": "Mossi",
+    "dir": "ltr"
+  },
+  "nl": {
+    "cloud": "nl",
+    "name": "Dutch",
+    "dir": "ltr"
+  },
+  "nqo": {
+    "cloud": "fr",
+    "name": "N'Ko",
+    "dir": "ltr"
+  },
+  "om": {
+    "cloud": "am",
+    "name": "Oromo",
+    "dir": "ltr"
+  },
+  "pa": {
+    "cloud": "pa",
+    "name": "Punjabi",
+    "dir": "ltr"
+  },
+  "ps": {
+    "cloud": "ps",
+    "name": "Pashto",
+    "dir": "rtl"
+  },
+  "pt": {
+    "cloud": "pt",
+    "name": "Portuguese",
+    "dir": "ltr"
+  },
+  "rn": {
+    "cloud": "run",
+    "name": "Kirundi",
+    "dir": "ltr"
+  },
+  "ro": {
+    "cloud": "ro",
+    "name": "Romanian",
+    "dir": "ltr"
+  },
+  "rw": {
+    "cloud": "rw",
+    "name": "Kinyarwanda",
+    "dir": "ltr"
+  },
+  "si": {
+    "cloud": "si",
+    "name": "Sinhala",
+    "dir": "ltr"
+  },
+  "so": {
+    "cloud": "so",
+    "name": "Somali",
+    "dir": "ltr"
+  },
+  "sq": {
+    "cloud": "sq",
+    "name": "Albanian",
+    "dir": "ltr"
+  },
+  "sr": {
+    "cloud": "sr-Cyrl",
+    "name": "Serbian",
+    "dir": "ltr"
+  },
+  "sw": {
+    "cloud": "sw",
+    "name": "Swahili",
+    "dir": "ltr"
+  },
+  "ta": {
+    "cloud": "ta",
+    "name": "Tamil",
+    "dir": "ltr"
+  },
+  "te": {
+    "cloud": "te",
+    "name": "Telugu",
+    "dir": "ltr"
+  },
+  "tg": {
+    "cloud": "ru",
+    "name": "Tajik",
+    "dir": "ltr"
+  },
+  "th": {
+    "cloud": "th",
+    "name": "Thai",
+    "dir": "ltr"
+  },
+  "tl": {
+    "cloud": "fil",
+    "name": "Filipino (Tagalog)",
+    "dir": "ltr"
+  },
+  "tr": {
+    "cloud": "tr",
+    "name": "Turkish",
+    "dir": "ltr"
+  },
+  "ug": {
+    "cloud": "ug",
+    "name": "Uyghur",
+    "dir": "rtl"
+  },
+  "ur": {
+    "cloud": "ur",
+    "name": "Urdu",
+    "dir": "rtl"
+  },
+  "uz": {
+    "cloud": "uz",
+    "name": "Uzbek",
+    "dir": "ltr"
+  },
+  "vi": {
+    "cloud": "vi",
+    "name": "Vietnamese",
+    "dir": "ltr"
+  },
+  "yo": {
+    "cloud": "yo",
+    "name": "Yoruba",
+    "dir": "ltr"
+  }
+}
