@@ -5,7 +5,8 @@
     "dir": "ltr",
     "source_org": "QuranEnc.com",
     "source_url": "https://quranenc.com/en/browse/english_saheeh",
-    "source_ver": "v1.1.2"
+    "source_ver": "v1.1.2",
+    "source_updated": "2025-06-24T13:37:27Z"
   },
   "es-es": {
     "azure": "es",
@@ -13,7 +14,8 @@
     "dir": "ltr",
     "source_org": "QuranEnc.com",
     "source_url": "https://quranenc.com/en/browse/spanish_montada_eu",
-    "source_ver": "v1.0.1"
+    "source_ver": "v1.0.1",
+    "source_updated": "2025-06-25T08:40:55Z"
   },
   "es-la": {
     "azure": "es-MX",
@@ -21,7 +23,8 @@
     "dir": "ltr",
     "source_org": "QuranEnc.com",
     "source_url": "https://quranenc.com/en/browse/spanish_garcia",
-    "source_ver": "v1.0.2"
+    "source_ver": "v1.0.2",
+    "source_updated": "2026-02-25T21:14:27Z"
   },
   "zh-hans": {
     "azure": "zh-Hans",
@@ -29,7 +32,8 @@
     "dir": "ltr",
     "source_org": "QuranEnc.com",
     "source_url": "https://quranenc.com/en/browse/chinese_suliman",
-    "source_ver": "v1.0.8"
+    "source_ver": "v1.0.8",
+    "source_updated": "2025-10-09T12:51:38Z"
   },
   "aa": {
     "azure": "en",
@@ -37,7 +41,8 @@
     "dir": "ltr",
     "source_org": "QuranEnc.com",
     "source_url": "https://quranenc.com/en/browse/afar_hamza",
-    "source_ver": "v1.0.1"
+    "source_ver": "v1.0.1",
+    "source_updated": "2024-05-22T08:05:11Z"
   },
   "ak": {
     "azure": "en",
@@ -45,7 +50,8 @@
     "dir": "ltr",
     "source_org": "QuranEnc.com",
     "source_url": "https://quranenc.com/en/browse/asante_harun",
-    "source_ver": "v1.0.3"
+    "source_ver": "v1.0.3",
+    "source_updated": "2023-08-15T22:00:16Z"
   },
   "am": {
     "azure": "am",
@@ -53,7 +59,8 @@
     "dir": "ltr",
     "source_org": "QuranEnc.com",
     "source_url": "https://quranenc.com/en/browse/amharic_sadiq",
-    "source_ver": "v1.1.2"
+    "source_ver": "v1.1.2",
+    "source_updated": "2025-06-25T12:07:11Z"
   },
   "as": {
     "azure": "as",
@@ -61,7 +68,8 @@
     "dir": "ltr",
     "source_org": "QuranEnc.com",
     "source_url": "https://quranenc.com/en/browse/assamese_rafeeq",
-    "source_ver": "v1.0.5"
+    "source_ver": "v1.0.5",
+    "source_updated": "2024-06-07T15:52:43Z"
   },
   "az": {
     "azure": "az",
@@ -69,7 +77,8 @@
     "dir": "ltr",
     "source_org": "QuranEnc.com",
     "source_url": "https://quranenc.com/en/browse/azeri_musayev",
-    "source_ver": "v1.0.4"
+    "source_ver": "v1.0.4",
+    "source_updated": "2025-05-27T20:42:29Z"
   },
   "bs": {
     "azure": "bs",
@@ -77,7 +86,8 @@
     "dir": "ltr",
     "source_org": "QuranEnc.com",
     "source_url": "https://quranenc.com/en/browse/bosnian_mihanovich",
-    "source_ver": "v1.1.0"
+    "source_ver": "v1.1.0",
+    "source_updated": "2019-12-20T21:00:00Z"
   },
   "ceb": {
     "azure": "fil",
@@ -85,7 +95,8 @@
     "dir": "ltr",
     "source_org": "QuranEnc.com",
     "source_url": "https://quranenc.com/en/browse/bisayan_rwwad",
-    "source_ver": "v1.1.3"
+    "source_ver": "v1.1.3",
+    "source_updated": "2025-12-23T06:30:43Z"
   },
   "de": {
     "azure": "de",
@@ -93,7 +104,8 @@
     "dir": "ltr",
     "source_org": "QuranEnc.com",
     "source_url": "https://quranenc.com/en/browse/german_bubenheim",
-    "source_ver": "v1.1.4"
+    "source_ver": "v1.1.4",
+    "source_updated": "2025-02-03T11:23:54Z"
   },
   "fa": {
     "azure": "fa",
@@ -101,7 +113,8 @@
     "dir": "rtl",
     "source_org": "QuranEnc.com",
     "source_url": "https://quranenc.com/en/browse/persian_ih",
-    "source_ver": "v1.1.3"
+    "source_ver": "v1.1.3",
+    "source_updated": "2026-02-23T21:53:54Z"
   },
   "ff": {
     "azure": "fr",
@@ -109,7 +122,8 @@
     "dir": "ltr",
     "source_org": "QuranEnc.com",
     "source_url": "https://quranenc.com/en/browse/fulani_rwwad",
-    "source_ver": "v1.0.2"
+    "source_ver": "v1.0.2",
+    "source_updated": "2024-10-14T20:42:23Z"
   },
   "fr": {
     "azure": "fr",
@@ -117,7 +131,8 @@
     "dir": "ltr",
     "source_org": "QuranEnc.com",
     "source_url": "https://quranenc.com/en/browse/french_rashid",
-    "source_ver": "v1.0.3"
+    "source_ver": "v1.0.3",
+    "source_updated": "2026-06-21T11:59:03Z"
   },
   "gu": {
     "azure": "gu",
@@ -125,7 +140,8 @@
     "dir": "ltr",
     "source_org": "QuranEnc.com",
     "source_url": "https://quranenc.com/en/browse/gujarati_omari",
-    "source_ver": "v1.1.3"
+    "source_ver": "v1.1.3",
+    "source_updated": "2025-02-26T22:29:03Z"
   },
   "ha": {
     "azure": "ha",
@@ -133,7 +149,8 @@
     "dir": "ltr",
     "source_org": "QuranEnc.com",
     "source_url": "https://quranenc.com/en/browse/hausa_gummi",
-    "source_ver": "v1.2.2"
+    "source_ver": "v1.2.2",
+    "source_updated": "2025-06-26T13:32:56Z"
   },
   "hi": {
     "azure": "hi",
@@ -141,7 +158,8 @@
     "dir": "ltr",
     "source_org": "QuranEnc.com",
     "source_url": "https://quranenc.com/en/browse/hindi_omari",
-    "source_ver": "v1.1.5"
+    "source_ver": "v1.1.5",
+    "source_updated": "2025-08-05T19:15:01Z"
   },
   "hr": {
     "azure": "hr",
@@ -149,7 +167,8 @@
     "dir": "ltr",
     "source_org": "QuranEnc.com",
     "source_url": "https://quranenc.com/en/browse/croatian_rwwad",
-    "source_ver": "v1.0.1"
+    "source_ver": "v1.0.1",
+    "source_updated": "2025-05-24T21:18:31Z"
   },
   "id": {
     "azure": "id",
@@ -157,7 +176,8 @@
     "dir": "ltr",
     "source_org": "QuranEnc.com",
     "source_url": "https://quranenc.com/en/browse/indonesian_affairs",
-    "source_ver": "v1.0.1"
+    "source_ver": "v1.0.1",
+    "source_updated": "2025-06-23T07:58:32Z"
   },
   "ja": {
     "azure": "ja",
@@ -165,7 +185,8 @@
     "dir": "ltr",
     "source_org": "QuranEnc.com",
     "source_url": "https://quranenc.com/en/browse/japanese_saeedsato",
-    "source_ver": "v1.0.13"
+    "source_ver": "v1.0.13",
+    "source_updated": "2026-06-24T13:33:37Z"
   },
   "km": {
     "azure": "km",
@@ -173,7 +194,8 @@
     "dir": "ltr",
     "source_org": "QuranEnc.com",
     "source_url": "https://quranenc.com/en/browse/khmer_cambodia",
-    "source_ver": "v1.0.2"
+    "source_ver": "v1.0.2",
+    "source_updated": "2024-08-08T06:34:29Z"
   },
   "kn": {
     "azure": "kn",
@@ -181,7 +203,8 @@
     "dir": "ltr",
     "source_org": "QuranEnc.com",
     "source_url": "https://quranenc.com/en/browse/kannada_hamza",
-    "source_ver": "v1.0.3"
+    "source_ver": "v1.0.3",
+    "source_updated": "2024-03-16T21:16:21Z"
   },
   "ku": {
     "azure": "ku",
@@ -189,7 +212,8 @@
     "dir": "rtl",
     "source_org": "QuranEnc.com",
     "source_url": "https://quranenc.com/en/browse/kurdish_bamoki",
-    "source_ver": "v1.1.1"
+    "source_ver": "v1.1.1",
+    "source_updated": "2023-02-16T08:14:18Z"
   },
   "ky": {
     "azure": "ky",
@@ -197,7 +221,8 @@
     "dir": "ltr",
     "source_org": "QuranEnc.com",
     "source_url": "https://quranenc.com/en/browse/kyrgyz_hakimov",
-    "source_ver": "v1.0.2"
+    "source_ver": "v1.0.2",
+    "source_updated": "2024-02-20T14:41:40Z"
   },
   "ln": {
     "azure": "ln",
@@ -205,7 +230,8 @@
     "dir": "ltr",
     "source_org": "QuranEnc.com",
     "source_url": "https://quranenc.com/en/browse/lingala_zakaria",
-    "source_ver": "v1.0.2"
+    "source_ver": "v1.0.2",
+    "source_updated": "2025-07-02T10:40:09Z"
   },
   "lt": {
     "azure": "lt",
@@ -213,7 +239,8 @@
     "dir": "ltr",
     "source_org": "QuranEnc.com",
     "source_url": "https://quranenc.com/en/browse/lithuanian_rwwad",
-    "source_ver": "v1.0.8"
+    "source_ver": "v1.0.8",
+    "source_updated": "2024-07-23T12:30:27Z"
   },
   "mdh": {
     "azure": "fil",
@@ -221,7 +248,8 @@
     "dir": "ltr",
     "source_org": "QuranEnc.com",
     "source_url": "https://quranenc.com/en/browse/maguindanao_rwwad",
-    "source_ver": "v1.0.4"
+    "source_ver": "v1.0.4",
+    "source_updated": "2025-12-16T15:22:42Z"
   },
   "mk": {
     "azure": "mk",
@@ -229,7 +257,8 @@
     "dir": "ltr",
     "source_org": "QuranEnc.com",
     "source_url": "https://quranenc.com/en/browse/macedonian_group",
-    "source_ver": "v1.0.1"
+    "source_ver": "v1.0.1",
+    "source_updated": "2024-12-15T11:23:47Z"
   },
   "ml": {
     "azure": "ml",
@@ -237,7 +266,8 @@
     "dir": "ltr",
     "source_org": "QuranEnc.com",
     "source_url": "https://quranenc.com/en/browse/malayalam_kunhi",
-    "source_ver": "v1.0.3"
+    "source_ver": "v1.0.3",
+    "source_updated": "2021-05-29T21:00:00Z"
   },
   "mos": {
     "azure": "fr",
@@ -245,7 +275,8 @@
     "dir": "ltr",
     "source_org": "QuranEnc.com",
     "source_url": "https://quranenc.com/en/browse/moore_rwwad",
-    "source_ver": "v1.0.1"
+    "source_ver": "v1.0.1",
+    "source_updated": "2024-06-05T04:27:14Z"
   },
   "nl": {
     "azure": "nl",
@@ -253,7 +284,8 @@
     "dir": "ltr",
     "source_org": "QuranEnc.com",
     "source_url": "https://quranenc.com/en/browse/dutch_center",
-    "source_ver": "v2.0.10"
+    "source_ver": "v2.0.10",
+    "source_updated": "2025-11-19T13:43:23Z"
   },
   "nqo": {
     "azure": "fr",
@@ -261,7 +293,8 @@
     "dir": "ltr",
     "source_org": "QuranEnc.com",
     "source_url": "https://quranenc.com/en/browse/ankobambara_dayyan",
-    "source_ver": "v1.0.5"
+    "source_ver": "v1.0.5",
+    "source_updated": "2026-01-21T20:50:50Z"
   },
   "om": {
     "azure": "am",
@@ -269,7 +302,8 @@
     "dir": "ltr",
     "source_org": "QuranEnc.com",
     "source_url": "https://quranenc.com/en/browse/oromo_ababor",
-    "source_ver": "v1.0.3"
+    "source_ver": "v1.0.3",
+    "source_updated": "2025-07-13T07:13:07Z"
   },
   "pa": {
     "azure": "pa",
@@ -277,7 +311,8 @@
     "dir": "ltr",
     "source_org": "QuranEnc.com",
     "source_url": "https://quranenc.com/en/browse/punjabi_arif",
-    "source_ver": "v1.0.1"
+    "source_ver": "v1.0.1",
+    "source_updated": "2026-01-24T14:21:08Z"
   },
   "ps": {
     "azure": "ps",
@@ -285,7 +320,8 @@
     "dir": "rtl",
     "source_org": "QuranEnc.com",
     "source_url": "https://quranenc.com/en/browse/pashto_rwwad",
-    "source_ver": "v1.0.1"
+    "source_ver": "v1.0.1",
+    "source_updated": "2024-02-15T12:16:21Z"
   },
   "pt": {
     "azure": "pt",
@@ -293,7 +329,8 @@
     "dir": "ltr",
     "source_org": "QuranEnc.com",
     "source_url": "https://quranenc.com/en/browse/portuguese_nasr",
-    "source_ver": "v1.4.1"
+    "source_ver": "v1.4.1",
+    "source_updated": "2026-02-23T12:36:35Z"
   },
   "rn": {
     "azure": "run",
@@ -301,7 +338,8 @@
     "dir": "ltr",
     "source_org": "QuranEnc.com",
     "source_url": "https://quranenc.com/en/browse/ikirundi_gehiti",
-    "source_ver": "v1.0.4"
+    "source_ver": "v1.0.4",
+    "source_updated": "2024-11-23T16:42:30Z"
   },
   "ro": {
     "azure": "ro",
@@ -309,7 +347,8 @@
     "dir": "ltr",
     "source_org": "QuranEnc.com",
     "source_url": "https://quranenc.com/en/browse/romanian_project",
-    "source_ver": "v1.0.4"
+    "source_ver": "v1.0.4",
+    "source_updated": "2025-05-01T05:01:08Z"
   },
   "rw": {
     "azure": "rw",
@@ -317,7 +356,8 @@
     "dir": "ltr",
     "source_org": "QuranEnc.com",
     "source_url": "https://quranenc.com/en/browse/kinyarwanda_assoc",
-    "source_ver": "v1.0.5"
+    "source_ver": "v1.0.5",
+    "source_updated": "2025-07-03T08:54:10Z"
   },
   "si": {
     "azure": "si",
@@ -325,7 +365,8 @@
     "dir": "ltr",
     "source_org": "QuranEnc.com",
     "source_url": "https://quranenc.com/en/browse/sinhalese_mahir",
-    "source_ver": "v1.0.6"
+    "source_ver": "v1.0.6",
+    "source_updated": "2025-09-14T21:03:43Z"
   },
   "so": {
     "azure": "so",
@@ -333,7 +374,8 @@
     "dir": "ltr",
     "source_org": "QuranEnc.com",
     "source_url": "https://quranenc.com/en/browse/somali_yacob",
-    "source_ver": "v1.0.26"
+    "source_ver": "v1.0.26",
+    "source_updated": "2025-09-04T08:35:33Z"
   },
   "sq": {
     "azure": "sq",
@@ -341,7 +383,8 @@
     "dir": "ltr",
     "source_org": "QuranEnc.com",
     "source_url": "https://quranenc.com/en/browse/albanian_nahi",
-    "source_ver": "v1.1.0"
+    "source_ver": "v1.1.0",
+    "source_updated": "2019-12-21T21:00:00Z"
   },
   "sr": {
     "azure": "sr-Cyrl",
@@ -349,7 +392,8 @@
     "dir": "ltr",
     "source_org": "QuranEnc.com",
     "source_url": "https://quranenc.com/en/browse/serbian_rwwad",
-    "source_ver": "v1.0.4"
+    "source_ver": "v1.0.4",
+    "source_updated": "2024-03-31T23:44:42Z"
   },
   "sw": {
     "azure": "sw",
@@ -357,7 +401,8 @@
     "dir": "ltr",
     "source_org": "QuranEnc.com",
     "source_url": "https://quranenc.com/en/browse/swahili_barawani",
-    "source_ver": "v1.0.1"
+    "source_ver": "v1.0.1",
+    "source_updated": "2025-06-25T19:51:18Z"
   },
   "ta": {
     "azure": "ta",
@@ -365,7 +410,8 @@
     "dir": "ltr",
     "source_org": "QuranEnc.com",
     "source_url": "https://quranenc.com/en/browse/tamil_omar_brief",
-    "source_ver": "v1.0.2"
+    "source_ver": "v1.0.2",
+    "source_updated": "2026-02-10T07:54:06Z"
   },
   "te": {
     "azure": "te",
@@ -373,7 +419,8 @@
     "dir": "ltr",
     "source_org": "QuranEnc.com",
     "source_url": "https://quranenc.com/en/browse/telugu_muhammad",
-    "source_ver": "v1.0.6"
+    "source_ver": "v1.0.6",
+    "source_updated": "2024-02-20T12:28:40Z"
   },
   "tg": {
     "azure": "ru",
@@ -381,7 +428,8 @@
     "dir": "ltr",
     "source_org": "QuranEnc.com",
     "source_url": "https://quranenc.com/en/browse/tajik_arifi",
-    "source_ver": "v1.0.2"
+    "source_ver": "v1.0.2",
+    "source_updated": "2024-04-23T11:40:19Z"
   },
   "th": {
     "azure": "th",
@@ -389,7 +437,8 @@
     "dir": "ltr",
     "source_org": "QuranEnc.com",
     "source_url": "https://quranenc.com/en/browse/thai_rwwad",
-    "source_ver": "v1.0.1"
+    "source_ver": "v1.0.1",
+    "source_updated": "2026-06-18T11:11:04Z"
   },
   "tl": {
     "azure": "fil",
@@ -397,7 +446,8 @@
     "dir": "ltr",
     "source_org": "QuranEnc.com",
     "source_url": "https://quranenc.com/en/browse/tagalog_rwwad",
-    "source_ver": "v1.1.4"
+    "source_ver": "v1.1.4",
+    "source_updated": "2025-02-04T22:31:34Z"
   },
   "tr": {
     "azure": "tr",
@@ -405,7 +455,8 @@
     "dir": "ltr",
     "source_org": "QuranEnc.com",
     "source_url": "https://quranenc.com/en/browse/turkish_shahin",
-    "source_ver": "v1.0.0"
+    "source_ver": "v1.0.0",
+    "source_updated": "2017-05-22T21:00:00Z"
   },
   "ug": {
     "azure": "ug",
@@ -413,7 +464,8 @@
     "dir": "rtl",
     "source_org": "QuranEnc.com",
     "source_url": "https://quranenc.com/en/browse/uyghur_saleh",
-    "source_ver": "v1.0.2"
+    "source_ver": "v1.0.2",
+    "source_updated": "2025-09-03T20:58:09Z"
   },
   "ur": {
     "azure": "ur",
@@ -421,7 +473,8 @@
     "dir": "rtl",
     "source_org": "QuranEnc.com",
     "source_url": "https://quranenc.com/en/browse/urdu_junagarhi",
-    "source_ver": "v1.1.3"
+    "source_ver": "v1.1.3",
+    "source_updated": "2025-08-13T11:37:29Z"
   },
   "uz": {
     "azure": "uz",
@@ -429,7 +482,8 @@
     "dir": "ltr",
     "source_org": "QuranEnc.com",
     "source_url": "https://quranenc.com/en/browse/uzbek_mansour",
-    "source_ver": "v1.0.0"
+    "source_ver": "v1.0.0",
+    "source_updated": "2025-06-24T07:59:35Z"
   },
   "vi": {
     "azure": "vi",
@@ -437,7 +491,8 @@
     "dir": "ltr",
     "source_org": "QuranEnc.com",
     "source_url": "https://quranenc.com/en/browse/vietnamese_rwwad",
-    "source_ver": "v1.0.8"
+    "source_ver": "v1.0.8",
+    "source_updated": "2025-07-01T10:06:36Z"
   },
   "yo": {
     "azure": "yo",
@@ -445,6 +500,7 @@
     "dir": "ltr",
     "source_org": "QuranEnc.com",
     "source_url": "https://quranenc.com/en/browse/yoruba_mikail",
-    "source_ver": "v1.0.9"
+    "source_ver": "v1.0.9",
+    "source_updated": "2025-07-21T20:17:00Z"
   }
 }
