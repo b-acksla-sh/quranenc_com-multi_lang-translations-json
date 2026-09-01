@@ -2,6 +2,7 @@
   "en": {
     "azure": "en",
     "name": "English",
+    "translation": "Noor International Center",
     "dir": "ltr",
     "source_org": "QuranEnc.com",
     "source_url": "https://quranenc.com/en/browse/english_saheeh",
@@ -11,6 +12,7 @@
   "es-es": {
     "azure": "es",
     "name": "Spanish (European)",
+    "translation": "Noor International Center",
     "dir": "ltr",
     "source_org": "QuranEnc.com",
     "source_url": "https://quranenc.com/en/browse/spanish_montada_eu",
@@ -20,6 +22,7 @@
   "es-la": {
     "azure": "es-MX",
     "name": "Spanish (Latin America)",
+    "translation": "Isa Garcia",
     "dir": "ltr",
     "source_org": "QuranEnc.com",
     "source_url": "https://quranenc.com/en/browse/spanish_garcia",
@@ -29,6 +32,7 @@
   "zh-hans": {
     "azure": "zh-Hans",
     "name": "Chinese (Simplified)",
+    "translation": "Muhammad Suleiman",
     "dir": "ltr",
     "source_org": "QuranEnc.com",
     "source_url": "https://quranenc.com/en/browse/chinese_suliman",
@@ -38,6 +42,7 @@
   "aa": {
     "azure": "en",
     "name": "Afar",
+    "translation": "Mahmoud Abdulqader Hamza",
     "dir": "ltr",
     "source_org": "QuranEnc.com",
     "source_url": "https://quranenc.com/en/browse/afar_hamza",
@@ -47,6 +52,7 @@
   "ak": {
     "azure": "en",
     "name": "Akan",
+    "translation": "Harun Ismail",
     "dir": "ltr",
     "source_org": "QuranEnc.com",
     "source_url": "https://quranenc.com/en/browse/asante_harun",
@@ -56,6 +62,7 @@
   "am": {
     "azure": "am",
     "name": "Amharic",
+    "translation": "Muhammad Sadiq",
     "dir": "ltr",
     "source_org": "QuranEnc.com",
     "source_url": "https://quranenc.com/en/browse/amharic_sadiq",
@@ -65,6 +72,7 @@
   "as": {
     "azure": "as",
     "name": "Assamese",
+    "translation": "Rafiqul Islam Habibur-Rahman",
     "dir": "ltr",
     "source_org": "QuranEnc.com",
     "source_url": "https://quranenc.com/en/browse/assamese_rafeeq",
@@ -74,6 +82,7 @@
   "az": {
     "azure": "az",
     "name": "Azerbaijani",
+    "translation": "Ali Khan Musayev",
     "dir": "ltr",
     "source_org": "QuranEnc.com",
     "source_url": "https://quranenc.com/en/browse/azeri_musayev",
@@ -83,6 +92,7 @@
   "bs": {
     "azure": "bs",
     "name": "Bosnian",
+    "translation": "Muhammad Mahanovic",
     "dir": "ltr",
     "source_org": "QuranEnc.com",
     "source_url": "https://quranenc.com/en/browse/bosnian_mihanovich",
@@ -92,6 +102,7 @@
   "ceb": {
     "azure": "fil",
     "name": "Filipino (Bisayan)",
+    "translation": "Rowwad Translation Center",
     "dir": "ltr",
     "source_org": "QuranEnc.com",
     "source_url": "https://quranenc.com/en/browse/bisayan_rwwad",
@@ -101,6 +112,7 @@
   "de": {
     "azure": "de",
     "name": "German",
+    "translation": "Frank Bubenheim",
     "dir": "ltr",
     "source_org": "QuranEnc.com",
     "source_url": "https://quranenc.com/en/browse/german_bubenheim",
@@ -110,6 +122,7 @@
   "fa": {
     "azure": "fa",
     "name": "Persian",
+    "translation": "Rowwad Translation Center",
     "dir": "rtl",
     "source_org": "QuranEnc.com",
     "source_url": "https://quranenc.com/en/browse/persian_ih",
@@ -119,6 +132,7 @@
   "ff": {
     "azure": "fr",
     "name": "Fulah",
+    "translation": "Rowwad Translation Center",
     "dir": "ltr",
     "source_org": "QuranEnc.com",
     "source_url": "https://quranenc.com/en/browse/fulani_rwwad",
@@ -128,6 +142,7 @@
   "fr": {
     "azure": "fr",
     "name": "French",
+    "translation": "Rachid Maach",
     "dir": "ltr",
     "source_org": "QuranEnc.com",
     "source_url": "https://quranenc.com/en/browse/french_rashid",
@@ -137,6 +152,7 @@
   "gu": {
     "azure": "gu",
     "name": "Gujarati",
+    "translation": "Rabella Al-Omari",
     "dir": "ltr",
     "source_org": "QuranEnc.com",
     "source_url": "https://quranenc.com/en/browse/gujarati_omari",
@@ -146,6 +162,7 @@
   "ha": {
     "azure": "ha",
     "name": "Hausa",
+    "translation": "Abu Bakr Jumi",
     "dir": "ltr",
     "source_org": "QuranEnc.com",
     "source_url": "https://quranenc.com/en/browse/hausa_gummi",
@@ -155,6 +172,7 @@
   "hi": {
     "azure": "hi",
     "name": "Hindi",
+    "translation": "Azizul Haq Al-Omari",
     "dir": "ltr",
     "source_org": "QuranEnc.com",
     "source_url": "https://quranenc.com/en/browse/hindi_omari",
@@ -164,6 +182,7 @@
   "hr": {
     "azure": "hr",
     "name": "Croatian",
+    "translation": "Rowwad Translation Center",
     "dir": "ltr",
     "source_org": "QuranEnc.com",
     "source_url": "https://quranenc.com/en/browse/croatian_rwwad",
@@ -173,6 +192,7 @@
   "id": {
     "azure": "id",
     "name": "Indonesian",
+    "translation": "Ministry of Religious Affairs",
     "dir": "ltr",
     "source_org": "QuranEnc.com",
     "source_url": "https://quranenc.com/en/browse/indonesian_affairs",
@@ -182,6 +202,7 @@
   "ja": {
     "azure": "ja",
     "name": "Japanese",
+    "translation": "Saeed Sato",
     "dir": "ltr",
     "source_org": "QuranEnc.com",
     "source_url": "https://quranenc.com/en/browse/japanese_saeedsato",
@@ -191,6 +212,7 @@
   "km": {
     "azure": "km",
     "name": "Khmer",
+    "translation": "Islamic Community Development Association",
     "dir": "ltr",
     "source_org": "QuranEnc.com",
     "source_url": "https://quranenc.com/en/browse/khmer_cambodia",
@@ -200,6 +222,7 @@
   "kn": {
     "azure": "kn",
     "name": "Kannada",
+    "translation": "Hamza Butur",
     "dir": "ltr",
     "source_org": "QuranEnc.com",
     "source_url": "https://quranenc.com/en/browse/kannada_hamza",
@@ -209,6 +232,7 @@
   "ku": {
     "azure": "ku",
     "name": "Kurdish",
+    "translation": "Muhammad Salih Bamoki",
     "dir": "rtl",
     "source_org": "QuranEnc.com",
     "source_url": "https://quranenc.com/en/browse/kurdish_bamoki",
@@ -218,6 +242,7 @@
   "ky": {
     "azure": "ky",
     "name": "Kyrgyz",
+    "translation": "Shamsuddin Hakimov",
     "dir": "ltr",
     "source_org": "QuranEnc.com",
     "source_url": "https://quranenc.com/en/browse/kyrgyz_hakimov",
@@ -227,6 +252,7 @@
   "ln": {
     "azure": "ln",
     "name": "Lingala",
+    "translation": "Mohammed Balangogo",
     "dir": "ltr",
     "source_org": "QuranEnc.com",
     "source_url": "https://quranenc.com/en/browse/lingala_zakaria",
@@ -236,6 +262,7 @@
   "lt": {
     "azure": "lt",
     "name": "Lithuanian",
+    "translation": "Rowwad Translation Center",
     "dir": "ltr",
     "source_org": "QuranEnc.com",
     "source_url": "https://quranenc.com/en/browse/lithuanian_rwwad",
@@ -245,6 +272,7 @@
   "mdh": {
     "azure": "fil",
     "name": "Filipino (Maguindanao)",
+    "translation": "Rowwad Translation Center",
     "dir": "ltr",
     "source_org": "QuranEnc.com",
     "source_url": "https://quranenc.com/en/browse/maguindanao_rwwad",
@@ -254,6 +282,7 @@
   "mk": {
     "azure": "mk",
     "name": "Macedonian",
+    "translation": "a group of Macedonian scholars",
     "dir": "ltr",
     "source_org": "QuranEnc.com",
     "source_url": "https://quranenc.com/en/browse/macedonian_group",
@@ -263,6 +292,7 @@
   "ml": {
     "azure": "ml",
     "name": "Malayalam",
+    "translation": "Abdul Hamid Haidar and Kunhi Muhammad",
     "dir": "ltr",
     "source_org": "QuranEnc.com",
     "source_url": "https://quranenc.com/en/browse/malayalam_kunhi",
@@ -272,6 +302,7 @@
   "mos": {
     "azure": "fr",
     "name": "Mossi",
+    "translation": "Rowwad Translation Center",
     "dir": "ltr",
     "source_org": "QuranEnc.com",
     "source_url": "https://quranenc.com/en/browse/moore_rwwad",
@@ -281,6 +312,7 @@
   "nl": {
     "azure": "nl",
     "name": "Dutch",
+    "translation": "Rowwad Translation Center",
     "dir": "ltr",
     "source_org": "QuranEnc.com",
     "source_url": "https://quranenc.com/en/browse/dutch_center",
@@ -290,6 +322,7 @@
   "nqo": {
     "azure": "fr",
     "name": "N'Ko",
+    "translation": "Baba Mamadi",
     "dir": "ltr",
     "source_org": "QuranEnc.com",
     "source_url": "https://quranenc.com/en/browse/ankobambara_dayyan",
@@ -299,6 +332,7 @@
   "om": {
     "azure": "am",
     "name": "Oromo",
+    "translation": "Gali Ababor",
     "dir": "ltr",
     "source_org": "QuranEnc.com",
     "source_url": "https://quranenc.com/en/browse/oromo_ababor",
@@ -308,6 +342,7 @@
   "pa": {
     "azure": "pa",
     "name": "Punjabi",
+    "translation": "Arif Haleem",
     "dir": "ltr",
     "source_org": "QuranEnc.com",
     "source_url": "https://quranenc.com/en/browse/punjabi_arif",
@@ -317,6 +352,7 @@
   "ps": {
     "azure": "ps",
     "name": "Pashto",
+    "translation": "Rowwad Translation Center",
     "dir": "rtl",
     "source_org": "QuranEnc.com",
     "source_url": "https://quranenc.com/en/browse/pashto_rwwad",
@@ -326,6 +362,7 @@
   "pt": {
     "azure": "pt",
     "name": "Portuguese",
+    "translation": "Helmi Nasr",
     "dir": "ltr",
     "source_org": "QuranEnc.com",
     "source_url": "https://quranenc.com/en/browse/portuguese_nasr",
@@ -335,6 +372,7 @@
   "rn": {
     "azure": "run",
     "name": "Kirundi",
+    "translation": "Yusuf Gahiti",
     "dir": "ltr",
     "source_org": "QuranEnc.com",
     "source_url": "https://quranenc.com/en/browse/ikirundi_gehiti",
@@ -344,6 +382,7 @@
   "ro": {
     "azure": "ro",
     "name": "Romanian",
+    "translation": "Islam4ro.com",
     "dir": "ltr",
     "source_org": "QuranEnc.com",
     "source_url": "https://quranenc.com/en/browse/romanian_project",
@@ -353,6 +392,7 @@
   "rw": {
     "azure": "rw",
     "name": "Kinyarwanda",
+    "translation": "Rwanda Muslim Association",
     "dir": "ltr",
     "source_org": "QuranEnc.com",
     "source_url": "https://quranenc.com/en/browse/kinyarwanda_assoc",
@@ -362,6 +402,7 @@
   "si": {
     "azure": "si",
     "name": "Sinhala",
+    "translation": "Rowwad Translation Center",
     "dir": "ltr",
     "source_org": "QuranEnc.com",
     "source_url": "https://quranenc.com/en/browse/sinhalese_mahir",
@@ -371,6 +412,7 @@
   "so": {
     "azure": "so",
     "name": "Somali",
+    "translation": "Abdullah Hasan Yaqoub",
     "dir": "ltr",
     "source_org": "QuranEnc.com",
     "source_url": "https://quranenc.com/en/browse/somali_yacob",
@@ -380,6 +422,7 @@
   "sq": {
     "azure": "sq",
     "name": "Albanian",
+    "translation": "Hassan Nahi",
     "dir": "ltr",
     "source_org": "QuranEnc.com",
     "source_url": "https://quranenc.com/en/browse/albanian_nahi",
@@ -389,6 +432,7 @@
   "sr": {
     "azure": "sr-Cyrl",
     "name": "Serbian",
+    "translation": "Rowwad Translation Center",
     "dir": "ltr",
     "source_org": "QuranEnc.com",
     "source_url": "https://quranenc.com/en/browse/serbian_rwwad",
@@ -398,6 +442,7 @@
   "sw": {
     "azure": "sw",
     "name": "Swahili",
+    "translation": "Ali Mohsin Al-Barwani",
     "dir": "ltr",
     "source_org": "QuranEnc.com",
     "source_url": "https://quranenc.com/en/browse/swahili_barawani",
@@ -407,6 +452,7 @@
   "ta": {
     "azure": "ta",
     "name": "Tamil",
+    "translation": "Omar Sharif - Abridged Version",
     "dir": "ltr",
     "source_org": "QuranEnc.com",
     "source_url": "https://quranenc.com/en/browse/tamil_omar_brief",
@@ -416,6 +462,7 @@
   "te": {
     "azure": "te",
     "name": "Telugu",
+    "translation": "Abdurrahim ibn Muhammad",
     "dir": "ltr",
     "source_org": "QuranEnc.com",
     "source_url": "https://quranenc.com/en/browse/telugu_muhammad",
@@ -425,6 +472,7 @@
   "tg": {
     "azure": "ru",
     "name": "Tajik",
+    "translation": "Rowwad Translation Center",
     "dir": "ltr",
     "source_org": "QuranEnc.com",
     "source_url": "https://quranenc.com/en/browse/tajik_arifi",
@@ -434,6 +482,7 @@
   "th": {
     "azure": "th",
     "name": "Thai",
+    "translation": "Rowwad Translation Center",
     "dir": "ltr",
     "source_org": "QuranEnc.com",
     "source_url": "https://quranenc.com/en/browse/thai_rwwad",
@@ -443,6 +492,7 @@
   "tl": {
     "azure": "fil",
     "name": "Filipino (Tagalog)",
+    "translation": "Rowwad Translation Center",
     "dir": "ltr",
     "source_org": "QuranEnc.com",
     "source_url": "https://quranenc.com/en/browse/tagalog_rwwad",
@@ -452,6 +502,7 @@
   "tr": {
     "azure": "tr",
     "name": "Turkish",
+    "translation": "Dr. Ali Ozek and others",
     "dir": "ltr",
     "source_org": "QuranEnc.com",
     "source_url": "https://quranenc.com/en/browse/turkish_shahin",
@@ -461,6 +512,7 @@
   "ug": {
     "azure": "ug",
     "name": "Uyghur",
+    "translation": "Muhammad Saleh",
     "dir": "rtl",
     "source_org": "QuranEnc.com",
     "source_url": "https://quranenc.com/en/browse/uyghur_saleh",
@@ -470,6 +522,7 @@
   "ur": {
     "azure": "ur",
     "name": "Urdu",
+    "translation": "Muhammad Junagarhi",
     "dir": "rtl",
     "source_org": "QuranEnc.com",
     "source_url": "https://quranenc.com/en/browse/urdu_junagarhi",
@@ -479,6 +532,7 @@
   "uz": {
     "azure": "uz",
     "name": "Uzbek",
+    "translation": "Alaauddin Mansour",
     "dir": "ltr",
     "source_org": "QuranEnc.com",
     "source_url": "https://quranenc.com/en/browse/uzbek_mansour",
@@ -488,6 +542,7 @@
   "vi": {
     "azure": "vi",
     "name": "Vietnamese",
+    "translation": "Rowwad Translation Center",
     "dir": "ltr",
     "source_org": "QuranEnc.com",
     "source_url": "https://quranenc.com/en/browse/vietnamese_rwwad",
@@ -497,6 +552,7 @@
   "yo": {
     "azure": "yo",
     "name": "Yoruba",
+    "translation": "Abu Rahimah Mikael",
     "dir": "ltr",
     "source_org": "QuranEnc.com",
     "source_url": "https://quranenc.com/en/browse/yoruba_mikail",
