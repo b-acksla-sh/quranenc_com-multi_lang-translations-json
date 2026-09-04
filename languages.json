@@ -152,7 +152,7 @@
   "gu": {
     "azure": "gu",
     "name": "Gujarati",
-    "translation": "Rabella Al-Omari",
+    "translation": "Rabella al-Omari",
     "dir": "ltr",
     "source_org": "QuranEnc.com",
     "source_url": "https://quranenc.com/en/browse/gujarati_omari",
@@ -172,7 +172,7 @@
   "hi": {
     "azure": "hi",
     "name": "Hindi",
-    "translation": "Azizul Haq Al-Omari",
+    "translation": "Azizul Haq al-Omari",
     "dir": "ltr",
     "source_org": "QuranEnc.com",
     "source_url": "https://quranenc.com/en/browse/hindi_omari",
@@ -192,7 +192,7 @@
   "id": {
     "azure": "id",
     "name": "Indonesian",
-    "translation": "Ministry of Religious Affairs",
+    "translation": "Kementerian Agama",
     "dir": "ltr",
     "source_org": "QuranEnc.com",
     "source_url": "https://quranenc.com/en/browse/indonesian_affairs",
@@ -282,7 +282,7 @@
   "mk": {
     "azure": "mk",
     "name": "Macedonian",
-    "translation": "a group of Macedonian scholars",
+    "translation": "A group of Macedonian Scholars",
     "dir": "ltr",
     "source_org": "QuranEnc.com",
     "source_url": "https://quranenc.com/en/browse/macedonian_group",
@@ -292,7 +292,7 @@
   "ml": {
     "azure": "ml",
     "name": "Malayalam",
-    "translation": "Abdul Hamid Haidar and Kunhi Muhammad",
+    "translation": "Abdul Hamid Haidar & Kunhi Muhammad",
     "dir": "ltr",
     "source_org": "QuranEnc.com",
     "source_url": "https://quranenc.com/en/browse/malayalam_kunhi",
@@ -442,7 +442,7 @@
   "sw": {
     "azure": "sw",
     "name": "Swahili",
-    "translation": "Ali Mohsin Al-Barwani",
+    "translation": "Ali Mohsin al-Barwani",
     "dir": "ltr",
     "source_org": "QuranEnc.com",
     "source_url": "https://quranenc.com/en/browse/swahili_barawani",
@@ -452,7 +452,7 @@
   "ta": {
     "azure": "ta",
     "name": "Tamil",
-    "translation": "Omar Sharif - Abridged Version",
+    "translation": "Omar Sharif",
     "dir": "ltr",
     "source_org": "QuranEnc.com",
     "source_url": "https://quranenc.com/en/browse/tamil_omar_brief",
@@ -502,7 +502,7 @@
   "tr": {
     "azure": "tr",
     "name": "Turkish",
-    "translation": "Dr. Ali Ozek and others",
+    "translation": "Dr. Ali Ozek & Others",
     "dir": "ltr",
     "source_org": "QuranEnc.com",
     "source_url": "https://quranenc.com/en/browse/turkish_shahin",
