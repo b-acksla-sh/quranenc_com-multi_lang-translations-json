@@ -15,3 +15,5 @@ Thumbs.db
 *.log
 *.sqlite3
 
+# Markdown: ignore new files, except files already tracked
+*.md
