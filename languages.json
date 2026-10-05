@@ -466,8 +466,8 @@
     "dir": "ltr",
     "source_org": "QuranEnc.com",
     "source_url": "https://quranenc.com/en/browse/telugu_muhammad",
-    "source_ver": "v1.0.6",
-    "source_updated": "2024-02-20T12:28:40Z"
+    "source_ver": "v1.0.7",
+    "source_updated": "2026-09-08T10:58:50Z"
   },
   "tg": {
     "azure": "ru",
@@ -532,12 +532,12 @@
   "uz": {
     "azure": "uz",
     "name": "Uzbek",
-    "translation": "Alaauddin Mansour",
+    "translation": "Rowwad Translation Center",
     "dir": "ltr",
     "source_org": "QuranEnc.com",
-    "source_url": "https://quranenc.com/en/browse/uzbek_mansour",
-    "source_ver": "v1.0.0",
-    "source_updated": "2025-06-24T07:59:35Z"
+    "source_url": "https://quranenc.com/en/browse/uzbek_rwwad",
+    "source_ver": "v1.0.4",
+    "source_updated": "2023-10-31T10:48:25Z"
   },
   "vi": {
     "azure": "vi",
